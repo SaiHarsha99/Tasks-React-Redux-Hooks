@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "bootstrap": "3.4.0",
+    "bootstrap": "3.4.1",
     "falcon-form": "1.0.5",
     "font-awesome": "4.7.0",
     "react": "16.12.0",
